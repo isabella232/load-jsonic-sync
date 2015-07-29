@@ -1,6 +1,6 @@
 {
   "name": "load-jsonic-sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple synchronous JSON-with-comments loader that gives good explanations of where failures come from",
   "main": "index.js",
   "scripts": {
